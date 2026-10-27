@@ -51,10 +51,6 @@ Built to practice **HTML, CSS, Flexbox, webpage layouts, and frontend UI develop
 
 This project is made for **educational purposes only** and is not affiliated with Amazon.
 
-## ⭐ If You Like This Project
-
-If you found this project useful or interesting, consider giving the repository a ⭐ on GitHub!
-
 ---
 
 ## 📌 Project Status
